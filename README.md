@@ -50,7 +50,7 @@ This repository may include implementations using:
 
 ## Repository Structure
 
-- notebooks/ # Jupyter notebooks (lectures, labs, experiments)  
+- notebooks/ # Jupyter notebooks (Programming Assignments)
 - projects/ # Course projects
 - textbooks/ # Course Textboks
 - data/ # Datasets used in assignments and projects  
