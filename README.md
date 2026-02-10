@@ -52,6 +52,7 @@ This repository may include implementations using:
 
 - notebooks/ # Jupyter notebooks (lectures, labs, experiments)  
 - projects/ # Course projects
+- textbooks/ # Course Textboks
 - data/ # Datasets used in assignments and projects  
 - models/ #Saved models and checkpoints  
 - README.md/ #Repository overview  
