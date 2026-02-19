@@ -38,10 +38,11 @@ CSCI167/
 │
 ├── notebooks/                      # Programming Assignments (Jupyter Notebooks)
 ├── projects/                       # Course Projects
-├── textbooks/                      # Course Textbooks
 ├── data/                           # Datasets used in assignments and projects
 ├── models/                         # Saved models and checkpoints
 └── README.md                       # Repository Documentation
+└── csci167 Textbook - Mastering PyTorch
+└── csci167 Textbook - Understanding Deep Learning.pdf
 ```
 
 ---
